@@ -1,0 +1,8 @@
+.h100 {
+    height: calc(100vh - 64px);
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.1);
+}
